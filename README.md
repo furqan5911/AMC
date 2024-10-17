@@ -67,8 +67,7 @@ Each report generally follows a structure that includes:
 
 1. **For Quick Insights**: Use `indiviuial5.md` or `indiviuial10.md` for a comprehensive overview of all enablers discussed together.
 2. **For Detailed Breakdown**: Refer to `indiviuial6.md` for a granular breakdown where each enabler is analyzed individually, offering separate sections for scores, gaps, impact, recommendations, and graphical representation.
-3. **For Enhanced Navigation**: Use `indiviuial8.md`, which includes hyperlinks to the table of contents for easier navigation.
-4. **For Graphical Representations**: Check `indiviuial4.md` for tables with text explanations.
-5. **For Definitions**: Use `indiviuial9.md` for clear definitions of each indicator within the enablers.
+3. **For Graphical Representations**: Check `indiviuial4.md` for tables with text explanations.
+4. **For Definitions**: Use `indiviuial9.md` for clear definitions of each indicator within the enablers.
 
 ---
