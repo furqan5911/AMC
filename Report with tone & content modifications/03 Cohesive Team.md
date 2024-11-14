@@ -101,7 +101,7 @@ Collaboration, as an indicator, plays a crucial role in achieving the overarchin
 
 For the "Collaboration" indicator, the AI score is 9, and your self-assessment score is 10. This slight discrepancy points to a potential area for alignment, indicating that your perception of team collaboration is slightly more optimistic than the AI's assessment.
 
-### Sub-Indicators
+
 
 - **Team Participation:** Your response indicates active involvement in team activities, which is vital for ensuring that all members contribute to the team's success. By fostering an inclusive environment, you are facilitating a platform where everyone feels comfortable sharing their ideas and participating actively.
 
@@ -192,7 +192,6 @@ Delegation is a critical indicator under the "Cohesive Team" enabler, emphasizin
 
 The AI assessment for the "Delegation" indicator stands at 9, while your self-assessment score is 10. This slight difference highlights a possible area for growth, suggesting that while you feel confident in your delegation practices, there might be subtle nuances worth exploring.
 
-### Sub-Indicators
 
 - **Task Identification:** Your ability to recognize which tasks can be delegated is crucial for optimizing team performance. By assessing workloads and identifying opportunities for delegation, you are ensuring that tasks are distributed efficiently.
 
@@ -283,7 +282,7 @@ The ability to manage challenging conversations is an essential indicator within
 
 For the "Managing Challenging Conversations" indicator, the AI score is 9, while your self-assessment score is 10. This slight difference suggests that while you feel confident in handling challenging conversations, there might be some areas for refinement.
 
-### Sub-Indicators
+
 
 - **Listen Attentively:** Active listening is key to understanding different perspectives during challenging conversations. By giving full attention and avoiding interruptions, you ensure that all parties feel heard and valued.
 
@@ -374,7 +373,7 @@ Emotional intelligence is a crucial indicator within the "Cohesive Team" enabler
 
 The AI assessment for the "Emotional Intelligence" indicator stands at 9, while your self-assessment score is 10. This slight difference suggests that while you are confident in your emotional intelligence skills, there might be areas for refinement.
 
-### Sub-Indicators
+
 
 - **Self-Awareness:** Recognizing and understanding one's own emotions is foundational to emotional intelligence. Your mindfulness of responses demonstrates a strong sense of self-awareness, contributing to more effective emotional regulation.
 
@@ -465,7 +464,7 @@ Team dynamics is a crucial indicator within the "Cohesive Team" enabler, emphasi
 
 The AI assessment for the "Team Dynamics" indicator stands at 9, while your self-assessment score is 10. This slight difference suggests that while you feel confident in managing team dynamics, there might be areas for refinement.
 
-### Sub-Indicators
+
 
 - **Interpersonal Relationships:** Building strong connections among team members is essential for fostering a positive team environment. Your emphasis on interpersonal relations demonstrates your commitment to creating a supportive and inclusive team culture.
 
